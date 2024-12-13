@@ -14,8 +14,8 @@ Server (Windows): Python 3.x, pyautogui, Pillow
 Client (Linux): Python 3.x
 
 Usage:
-Run the server script on a Windows machine, specifying the IP and port.
-Run the client script on a Linux machine, providing the server's IP address.
+Run the server script on a machine, specifying the IP and port.
+Run the client script on a machine, providing the server's IP address.
 The client will receive the screenshot from the server and save it as screenshot.png.
 
 Example:
